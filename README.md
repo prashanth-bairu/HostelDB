@@ -34,5 +34,5 @@ _**Enjoy exploring and contributing to the Hostel Management Database. Your feed
 
 ### ER Diagram
 
-![ER_diagram]()
+![ER_diagram](https://github.com/prashanth-bairu/HostelDB/blob/c2e8c35d54d1c640cf49086ae11f70e559b79420/ER_diagram.png)
 
